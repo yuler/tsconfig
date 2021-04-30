@@ -17,7 +17,6 @@ tsconfig.json
 ```json
 {
   "extends": "@yuler/tsconfig",
-  // overwrite
   "compilerOptions": {
     "outDir": "dist"
   }
@@ -26,4 +25,4 @@ tsconfig.json
 
 ## Inspire by
 
-- [tsconfig](https://github.com/sindresorhus/tsconfig)
+- [sindresorhus's tsconfig](https://github.com/sindresorhus/tsconfig)
