@@ -1,27 +1,24 @@
 {
-  "name": "@yuler/tsconfig",
-  "version": "0.1.1",
-  "description": "Shared TypeScript config",
-  "license": "MIT",
-  "main": "tsconfig.json",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yuler/tsconfig.git"
-  },
-  "author": {
-    "name": "yuler",
-    "email": "is.yuler@gmail.com"
-  },
-  "engines": {
-    "node": ">=12"
-  },
-  "files": [
-    "tsconfig.json"
-  ],
-  "keywords": [
-    "tsconfig",
-    "typescript",
-    "ts",
-    "config"
-  ]
+	"name": "@yuler/tsconfig",
+	"version": "0.1.1",
+	"description": "Shared TypeScript config",
+	"license": "MIT",
+	"repository": "yuler/tsconfig",
+	"author": {
+		"name": "yuler",
+		"email": "is.yuler@gmail.com"
+	},
+	"main": "tsconfig.json",
+	"engines": {
+		"node": ">=12"
+	},
+	"files": [
+		"tsconfig.json"
+	],
+	"keywords": [
+		"tsconfig",
+		"typescript",
+		"ts",
+		"config"
+	]
 }
