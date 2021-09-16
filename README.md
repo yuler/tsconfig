@@ -16,7 +16,7 @@ tsconfig.json
 
 ```json
 {
-  "extends": "@yuler/tsconfig",
+  "extends": "@yuler/tsconfig/tsconfig.json",
   "compilerOptions": {
     "outDir": "dist"
   }
